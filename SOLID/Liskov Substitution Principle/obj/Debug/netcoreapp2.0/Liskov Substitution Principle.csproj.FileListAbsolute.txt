@@ -1,0 +1,10 @@
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Liskov Substitution Principle\bin\Debug\netcoreapp2.0\Liskov Substitution Principle.deps.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Liskov Substitution Principle\bin\Debug\netcoreapp2.0\Liskov Substitution Principle.runtimeconfig.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Liskov Substitution Principle\bin\Debug\netcoreapp2.0\Liskov Substitution Principle.runtimeconfig.dev.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Liskov Substitution Principle\bin\Debug\netcoreapp2.0\Liskov Substitution Principle.dll
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Liskov Substitution Principle\bin\Debug\netcoreapp2.0\Liskov Substitution Principle.pdb
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Liskov Substitution Principle\obj\Debug\netcoreapp2.0\Liskov Substitution Principle.csproj.CoreCompileInputs.cache
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Liskov Substitution Principle\obj\Debug\netcoreapp2.0\Liskov Substitution Principle.AssemblyInfoInputs.cache
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Liskov Substitution Principle\obj\Debug\netcoreapp2.0\Liskov Substitution Principle.AssemblyInfo.cs
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Liskov Substitution Principle\obj\Debug\netcoreapp2.0\Liskov Substitution Principle.dll
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Liskov Substitution Principle\obj\Debug\netcoreapp2.0\Liskov Substitution Principle.pdb

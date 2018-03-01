@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\SOLID\\Single Responsibility Principle\\Single Responsibility Principle.csproj",
-      "projectName": "Single Responsibility Principle",
-      "projectPath": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\SOLID\\Single Responsibility Principle\\Single Responsibility Principle.csproj",
+      "projectUniqueName": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\SOLID\\Interface Seggregation Principle\\Interface Seggregation Principle.csproj",
+      "projectName": "Interface Seggregation Principle",
+      "projectPath": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\SOLID\\Interface Seggregation Principle\\Interface Seggregation Principle.csproj",
       "packagesPath": "C:\\Users\\Woksin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\SOLID\\Single Responsibility Principle\\obj\\",
+      "outputPath": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\SOLID\\Interface Seggregation Principle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

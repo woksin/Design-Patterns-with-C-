@@ -1,0 +1,3 @@
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Interface Seggregation Principle\obj\Debug\netcoreapp2.0\Interface Seggregation Principle.csproj.CoreCompileInputs.cache
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Interface Seggregation Principle\obj\Debug\netcoreapp2.0\Interface Seggregation Principle.AssemblyInfoInputs.cache
+C:\Users\Woksin\Documents\DesignPattensWithC#\SOLID\Interface Seggregation Principle\obj\Debug\netcoreapp2.0\Interface Seggregation Principle.AssemblyInfo.cs
