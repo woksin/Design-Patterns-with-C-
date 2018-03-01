@@ -1,0 +1,10 @@
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\WhyWeWantIt\bin\Debug\netcoreapp2.0\WhyWeWantIt.deps.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\WhyWeWantIt\bin\Debug\netcoreapp2.0\WhyWeWantIt.runtimeconfig.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\WhyWeWantIt\bin\Debug\netcoreapp2.0\WhyWeWantIt.runtimeconfig.dev.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\WhyWeWantIt\bin\Debug\netcoreapp2.0\WhyWeWantIt.dll
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\WhyWeWantIt\bin\Debug\netcoreapp2.0\WhyWeWantIt.pdb
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\WhyWeWantIt\obj\Debug\netcoreapp2.0\WhyWeWantIt.csproj.CoreCompileInputs.cache
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\WhyWeWantIt\obj\Debug\netcoreapp2.0\WhyWeWantIt.AssemblyInfoInputs.cache
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\WhyWeWantIt\obj\Debug\netcoreapp2.0\WhyWeWantIt.AssemblyInfo.cs
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\WhyWeWantIt\obj\Debug\netcoreapp2.0\WhyWeWantIt.dll
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\WhyWeWantIt\obj\Debug\netcoreapp2.0\WhyWeWantIt.pdb
