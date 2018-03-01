@@ -1,0 +1,10 @@
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Fluent Builder Inheritance\bin\Debug\netcoreapp2.0\Fluent Builder Inheritance.deps.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Fluent Builder Inheritance\bin\Debug\netcoreapp2.0\Fluent Builder Inheritance.runtimeconfig.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Fluent Builder Inheritance\bin\Debug\netcoreapp2.0\Fluent Builder Inheritance.runtimeconfig.dev.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Fluent Builder Inheritance\bin\Debug\netcoreapp2.0\Fluent Builder Inheritance.dll
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Fluent Builder Inheritance\bin\Debug\netcoreapp2.0\Fluent Builder Inheritance.pdb
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Fluent Builder Inheritance\obj\Debug\netcoreapp2.0\Fluent Builder Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Fluent Builder Inheritance\obj\Debug\netcoreapp2.0\Fluent Builder Inheritance.AssemblyInfoInputs.cache
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Fluent Builder Inheritance\obj\Debug\netcoreapp2.0\Fluent Builder Inheritance.AssemblyInfo.cs
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Fluent Builder Inheritance\obj\Debug\netcoreapp2.0\Fluent Builder Inheritance.dll
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Fluent Builder Inheritance\obj\Debug\netcoreapp2.0\Fluent Builder Inheritance.pdb

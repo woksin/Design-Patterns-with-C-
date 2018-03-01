@@ -1,0 +1,10 @@
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Faceted Builder\bin\Debug\netcoreapp2.0\Faceted Builder.deps.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Faceted Builder\bin\Debug\netcoreapp2.0\Faceted Builder.runtimeconfig.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Faceted Builder\bin\Debug\netcoreapp2.0\Faceted Builder.runtimeconfig.dev.json
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Faceted Builder\bin\Debug\netcoreapp2.0\Faceted Builder.dll
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Faceted Builder\bin\Debug\netcoreapp2.0\Faceted Builder.pdb
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Faceted Builder\obj\Debug\netcoreapp2.0\Faceted Builder.csproj.CoreCompileInputs.cache
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Faceted Builder\obj\Debug\netcoreapp2.0\Faceted Builder.AssemblyInfoInputs.cache
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Faceted Builder\obj\Debug\netcoreapp2.0\Faceted Builder.AssemblyInfo.cs
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Faceted Builder\obj\Debug\netcoreapp2.0\Faceted Builder.dll
+C:\Users\Woksin\Documents\DesignPattensWithC#\Builder\Faceted Builder\obj\Debug\netcoreapp2.0\Faceted Builder.pdb

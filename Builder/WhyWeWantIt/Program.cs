@@ -59,10 +59,12 @@ namespace WhyWeWantIt {
             root.Name = rootName;
         }
 
-        public void AddCHild(string childName, string childText) 
+        public HtmlBuilder AddCHild(string childName, string childText) 
         {
             var e = new HtmlElement(childName, childText);
             root.Elements.Add(e);
+
+            return this;
         }
 
         public override string ToString()
@@ -103,9 +105,9 @@ namespace WhyWeWantIt {
 
             // Use the HTML builder
 
-            var builder = new HtmlBuilder("ul");
-            builder.AddCHild("li", "hello");
-            builder.AddCHild("li", "world");
+            var builder = new HtmlBuilder("ul")
+                .AddCHild("li", "hello")
+                .AddCHild("li", "world");
 
             System.Console.WriteLine(builder.ToString());            
 

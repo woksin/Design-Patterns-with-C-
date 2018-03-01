@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\Builder\\Builder.csproj",
-      "projectName": "Builder",
-      "projectPath": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\Builder\\Builder.csproj",
+      "projectUniqueName": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\Builder\\Faceted Builder\\Faceted Builder.csproj",
+      "projectName": "Faceted Builder",
+      "projectPath": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\Builder\\Faceted Builder\\Faceted Builder.csproj",
       "packagesPath": "C:\\Users\\Woksin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\Builder\\obj\\",
+      "outputPath": "C:\\Users\\Woksin\\Documents\\DesignPattensWithC#\\Builder\\Faceted Builder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
